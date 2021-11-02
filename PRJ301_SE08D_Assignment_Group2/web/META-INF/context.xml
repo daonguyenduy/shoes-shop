@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/PRJ301_SE08D_Assignment_Group2">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="DBcon" password="123456duy" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=PRJ301_SE08D_Assignment_Group2" username="sa"/>
+</Context>
